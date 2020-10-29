@@ -1,0 +1,48 @@
+STYLE SHEET
+
+body { background-color: black;
+
+}
+
+.d1 { background-color: #3d3736; height: 180px; width:100%; padding: 5px:
+
+}
+
+.d2 { height: 400px; width: 40%; margin: auto; }
+
+.c3 { float: left; height: 150px;
+
+}
+
+.d3 { clear: both; }
+
+.c1 { font-size: 20px; float: right; position: relative; top: 50px; right: 300px; color: white;
+
+}
+
+.c2 {
+font-size: 20px; float: right; position: relative; top: 50px; right: 350px; color: white; }
+
+.c4 { font-size: 20px; float: right; position: relative; top: 50px; right: 380px; color: white;
+
+}
+
+.c5 { font-size: 20px; float: right; position: relative; top: 50px; left: 450px; color: white; }
+
+.c6 { font-size: 20px; float: right; position: relative; top: 50px; right: 500px; color: white;
+
+}
+
+.c7 { font-size: 20px; float: right; position: relative; top: 50px; right: 602px; color: white;
+
+}
+
+.c8 {
+
+	font-size: 20px;
+	float: right;
+	position: relative;
+	top: 50px;
+	right: 550px;
+	color: white;
+}
