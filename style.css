@@ -1,48 +1,217 @@
 STYLE SHEET
 
-body { background-color: black;
+body {
+	background-color: black;
+
+	
+	
+}
+
+div  {
+			height: 200px;
+			width: 100%;
+			float: left;
+}
+
+.border  {
+	      width: 100%;
+		  height: 100px;
+		
+		  
+}
+
+.banner   {
+			width: 100%;
+			height: 150px;
 
 }
 
-.d1 { background-color: #3d3736; height: 180px; width:100%; padding: 5px:
-
+.home {
+		background-image: url("capture.jpg");
+		
+		
 }
 
-.d2 { height: 400px; width: 40%; margin: auto; }
 
-.c3 { float: left; height: 150px;
 
+	/* navbar */
+	
+.nav1, .nav2, .nav3, .nav4, .nav5, .nav6 { 
+			color: white;
+			
 }
 
-.d3 { clear: both; }
+.MMA, .Kids, .timetable, .ladies, .about {
 
-.c1 { font-size: 20px; float: right; position: relative; top: 50px; right: 300px; color: white;
-
+													color: white;
+													font-style: Sans-serif;
+													font-size: 40px;
+													border: solid ;
+													border-width: 1px;
+													
+													
 }
 
-.c2 {
-font-size: 20px; float: right; position: relative; top: 50px; right: 350px; color: white; }
-
-.c4 { font-size: 20px; float: right; position: relative; top: 50px; right: 380px; color: white;
-
+.video  {
+		position: relative;
+		left: 35%;
+		
 }
 
-.c5 { font-size: 20px; float: right; position: relative; top: 50px; left: 450px; color: white; }
 
-.c6 { font-size: 20px; float: right; position: relative; top: 50px; right: 500px; color: white;
 
+.logo {
+		float: left;
+		
 }
 
-.c7 { font-size: 20px; float: right; position: relative; top: 50px; right: 602px; color: white;
-
+.home {
+		clear: both;
+		position: relative;
+		left: 20%;
+		padding: 4px;
+		
 }
 
-.c8 {
 
-	font-size: 20px;
-	float: right;
-	position: relative;
-	top: 50px;
-	right: 550px;
+.pic  {
+		position: relative;
+		left: 30%;
+}
+
+h1 {
+	text-align: center;
 	color: white;
+	font-style: Impact, fantasy;
+	font-size: 60px;
+	
 }
+
+h2  {
+	text-align: center;
+	color: white;
+	font-style: oblique;
+	font-size: 60px;
+	
+}
+
+.team1  {
+		position: relative;
+		left: 35%;
+		height: 420px;
+		width: 30%;
+		padding: 20px;
+		
+}
+
+.navbar {
+			color: white;
+			font-style: Sans-serif;
+			font-size: 40px;
+			border: solid ;
+			border-width: 1px;
+			word-spacing: 2px;
+			
+			
+}
+
+
+
+
+
+
+
+p  {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #111;
+  text-decoration: none;
+  color; white;
+  
+}
+
+
+a:visited {
+  background-color: #6b5d5d;
+}
+
+li {
+   float: left;
+   display: inline;
+}
+	
+	
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+		
+li a:hover {
+  background-color: #b53838;
+}	
+
+
+.chris {
+		position: relative;
+		left: 35%;
+		
+}
+
+
+.heading {
+			text-align: center;
+			
+}
+
+.blurb {
+		clear:both;
+		position: relative;
+		left: 1%;
+		font-size: 20px;
+		padding: 20px;
+		background-color: black;
+		
+}
+
+
+.ais {
+	
+		position: relative;
+		left: 40%;
+		padding-bottom: 10px;
+		
+}
+
+.aisblurb  {
+			
+		clear:both;
+		position: relative;
+		left: 1%;
+		font-size: 30px;
+		padding: 20px;
+		background-color: black;
+		
+		
+}
+
+.contact  {
+			background-color: #363332;
+			height: 100px;
+			width: 100%;
+			
+}
+
+.twitter  {
+			height: 40px;
+			width: 10%;
+}
+			
